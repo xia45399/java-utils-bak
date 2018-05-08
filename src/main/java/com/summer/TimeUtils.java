@@ -5,6 +5,9 @@ import java.text.SimpleDateFormat;
 import java.util.Calendar;
 
 public class TimeUtils {
+    public static void main(String[] args) {
+        System.out.println();
+    }
     private static String pattern = "yyyy-MM-dd HH:mm:ss";
 
     /**
