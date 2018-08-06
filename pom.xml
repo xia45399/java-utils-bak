@@ -6,7 +6,7 @@
 
     <groupId>com.summer</groupId>
     <artifactId>java-utils</artifactId>
-    <version>1.0.1-SNAPSHOT</version>
+    <version>1.0.2-SNAPSHOT</version>
 
     <properties>
         <fastjson.version>1.2.31</fastjson.version>
