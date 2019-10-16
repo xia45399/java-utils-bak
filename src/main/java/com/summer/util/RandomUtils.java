@@ -1,4 +1,4 @@
-package com.summer;
+package com.summer.util;
 
 import java.util.Random;
 
